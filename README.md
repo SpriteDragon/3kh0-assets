@@ -1,4 +1,6 @@
-# 3kh0 Assets ("relived, assets.")
+# 3kh0 Assets ("for jordansmathwork")
+# Disclamer: This site does NOT, In any way, violate github's TOS. This is just to simply store the games.
+
 
 **All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, ["3kh0, relived."](https://github.com/WhoIsEv/whoisev.github.io)
 Please check out 3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
@@ -13,7 +15,7 @@ Please check out 3kh0's profile! He has amazing stuff there and is one of my fav
 
 All games will be hosted here due to the amount of files. It overloads GitHub so hard, to GitHub, I am so sorry! For the main site, we using [githack.com](https://raw.githack.com/) as a CDN to load the games, so no more 15 minute deploy times and size limits.
 
-**Skidding this gets you no gain, so {    } off.**
+**Skidding this gets you no gain, so {fuck} off.**
 
 If you want to check out 3kh0's site, head to [https://3kh0.net](https://3kh0.net)
 
