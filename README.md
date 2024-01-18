@@ -2,14 +2,14 @@
 # Disclamer: This site does NOT, In any way, violate github's TOS. This is just to simply store the games.
 
 
-**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, ["Jordansmathwork."](https://github.com/GalacticNetwork/jordansmathwork-v4)
+**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork.](https://github.com/GalacticNetwork/jordansmathwork-v4)
 Please check out 3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
 
 3kh0 Assets Stats:
 ![Github repo file count](https://img.shields.io/github/directory-file-count/GalacticNetwork/3kh0-Assets?label=Total%20file%20count)
 ![Github repo size](https://img.shields.io/github/repo-size/GalacticNetwork/3kh0-Assets?label=Total%20size)
 
-"relived, assets." Stats:
+"3kh0,, assets." Stats:
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/GalacticNetwork/3kh0-assets?label=Total%20file%20count)
 ![GitHub repo size](https://img.shields.io/github/repo-size/GalacticNetwork/3kh0-assets?label=Total%20size)
 
