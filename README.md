@@ -24,7 +24,7 @@ The main repo for the original 3kh0 website can be found at [https://github.com/
 ## Usage (using this for your own site)
 
 If you want to use these for your own projects, I would just like to ask a few things.
-1. Please give me credit, game ripping is not always easy so even just some text saying "Credit to 3kh0" is all that is required :heart:
+1. Please give 3kh0 credit, game ripping is not always easy so even just some text saying "Credit to 3kh0" is all that is required :heart:
 
 ### Embedding
 
