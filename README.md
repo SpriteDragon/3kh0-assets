@@ -1,5 +1,5 @@
 # 3kh0 Assets ("jmw, assets")
-# Disclamer: This site does NOT, In any way, violate github's TOS. This is just to simply store the games.
+# Disclamer: This site does NOT, In any way, violate github's TOS. This is just to simply store the games, and is used to be hosted on githack. Don't delete this github, this doesn't violate anything, so {    } off.
 
 
 **All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork.](https://github.com/GalacticNetwork/jordansmathwork-v4)
