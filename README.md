@@ -14,7 +14,7 @@ Please check out 3kh0's profile! He has amazing stuff there and is one of my fav
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/GalacticNetwork/jordansmathwork-v4?label=Total%20file%20count)
 ![GitHub repo size](https://img.shields.io/github/repo-size/GalacticNetwork/jordansmathwork-v4?label=Total%20size)
 
-All games will be hosted here due to the amount of files. It overloads GitHub so hard, to GitHub, I am so sorry! For the main site, we using [githack.com](https://raw.githack.com/) as a CDN to load the games, so no more 15 minute deploy times and size limits.
+All games will be hosted here due to the amount of files. It overloads GitHub so hard, to GitHub, I am so sorry! For the main site, we using [rawgitt](https://rawgitt.glitch.me) as a CDN to load the games, so no more 15 minute deploy times and size limits.
 
 **Skidding this gets you no gain, so fuck the hell off.**
 
@@ -29,11 +29,11 @@ If you want to use these for your own projects, I would just like to ask a few t
 
 ### Embedding
 
-The base URL for the CDN is https://raw.githack.com/GalacticNetwork/3kh0-assets/main/
+The base URL for the CDN is https://rawgitt.glitch.me/GalacticNetwork/3kh0-assets/main/
 
 SO pretty much just add the folder of the game you want, say 2048, the url would be
 ```
-https://raw.githack.com/GalacticNetwork/3kh0-assets/main/2048/index.html
+https://rawgitt.glitch.me/GalacticNetwork/3kh0-assets/main/2048/index.html
 ```
 And you would replace `2048` with the title of the folder, this is the best method since the game would be up-to-date always, in case of something like a update or something breaks.
 
