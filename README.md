@@ -1,9 +1,9 @@
 # 3kh0 Assets ("jmw, assets")
-# Disclamer: This site does NOT, In any way, violate github's TOS. This is just to simply store the games, and is used to be hosted on githack. Don't delete this github, this doesn't violate anything, so {    } off.
+# Disclamer: This site does NOT, In any way, violate github's TOS. This is just to simply store the games, and is used to be hosted on rawgitt. Don't delete this github, this doesn't violate anything, so {    } off.
 ### also, credit to ([WhoIsEV](https://github.com/WhoIsEv/relivedassets)), because the original 3kh0 assets was deleted, but his repo exists, thank you 💖
 
 
-**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork.](https://github.com/GalacticNetwork/jordansmathwork-v4)
+**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork](https://github.com/GalacticNetwork/jordansmathwork-v4) and [Astro.](https://github.com/GalacticNetwork/astro-static)
 Please check out 3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
 
 3kh0 Assets Stats:
