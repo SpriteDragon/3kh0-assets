@@ -3,7 +3,7 @@
 ### also, credit to ([WhoIsEV](https://github.com/WhoIsEv/relivedassets)), because the original 3kh0 assets was deleted, but his repo exists, thank you 💖
 
 
-**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork](https://github.com/GalacticNetwork/jordansmathwork-v4) and [Astro.](https://github.com/GalacticNetwork/astro-static)
+**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork](https://github.com/GalacticNetwork/jordansmathwork-v5) and [Astro.](https://github.com/GalacticNetwork/astro-static)
 Please check out 3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
 
 3kh0 Assets Stats:
@@ -49,7 +49,7 @@ If you are gonna do this, you are gonna do it yourself. The amount of files made
 Create a pull request here!
 
 ***Contributing a change to the UI***
-Create a pull request on the [main github repo](https://github.com/GalacticNetwork/jordansmathwork-v4)!
+Create a pull request on the [main github repo](https://github.com/GalacticNetwork/jordansmathwork-v5)!
 
 Join these epic people who have helped make the best unblocked games website!
 
